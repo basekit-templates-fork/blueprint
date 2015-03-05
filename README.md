@@ -1,6 +1,6 @@
-hatch
+blueprint
 =====
 
-BaseKit's Hatch Template
+BaseKit Enom Build Template
 
-+ Switched to develop branch - 07/06/13
++ Forked from Beta-studio
