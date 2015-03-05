@@ -7,6 +7,10 @@
     "tags": {
     "en": ["minimal", "clean", "builder", "construction", "blueprint", "construct", "building"]
     },
+    "images":[
+        "images/feature-bg.jpg",
+        "images/logo.png"
+    ],
     "colorSwatches":
     {
         "Swatch 1": {
