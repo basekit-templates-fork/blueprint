@@ -5,8 +5,9 @@
 	"templateType":"standard",
     "pageTypes": ["home"],
     "tags": {
-    "en": ["minimal", "clean", "builder", "construction", "blueprint", "construct", "building"]
-    },
+        "en": ["clean", "trade", "construction", "build", "DIY"],
+        "es": ["limpio", "comercio", "construcción", "construcción", "bricolaje"],
+        "br": ["limpo", "comércio", "construção", "construção", "DIY"],
     "images":[
         "images/feature-bg.jpg",
         "images/logo.png"
