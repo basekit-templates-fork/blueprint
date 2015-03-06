@@ -7,7 +7,8 @@
     "tags": {
         "en": ["clean", "trade", "construction", "build", "DIY"],
         "es": ["limpio", "comercio", "construcción", "construcción", "bricolaje"],
-        "br": ["limpo", "comércio", "construção", "construção", "DIY"],
+        "br": ["limpo", "comércio", "construção", "construção", "DIY"]
+    },
     "images":[
         "images/feature-bg.jpg",
         "images/logo.png"
@@ -16,12 +17,12 @@
     {
         "Swatch 1": {
             "color1":"#ffffff",
-            "color2":"#fff5f1",
+            "color2":"#75cdcd",
             "color3":"#575d61",
             "color4":"#000000",
             "color5":"#acacac",
             "color6":"#000000",
-            "color7":"#EAEAEA"
+            "color7":"#d2d2d2"
         },
         "Swatch 2": {
             "color1":"#ffffff",
