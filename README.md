@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 blueprint
 =====
 
@@ -10,4 +9,3 @@ beta-studio
 =====
 
 BaseKit's Beta-studio Template
->>>>>>> upstream/develop
